@@ -30,6 +30,14 @@ body{
 .foto1{
     padding-left: 32px;
     padding-top: 26px;
+    display: flex;
+    gap: 16px;
+    color: #FFF;
+font-family: "Barlow Semi Condensed";
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; 
 }
 .h1{
     color: #FFF;
@@ -61,6 +69,16 @@ grid-area:7/6/1/9;
 .foto2{
     padding-left: 32px;
     padding-top: 26px;
+    padding-left: 32px;
+    padding-top: 26px;
+    display: flex;
+    gap: 16px;
+    color: #FFF;
+font-family: "Barlow Semi Condensed";
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; 
 }
 .h2{
     color: #FFF;
@@ -92,6 +110,16 @@ grid-area:7/6/1/9;
 .foto3{
     padding-left: 70px;
     padding-top: 26px;
+    padding-left: 32px;
+    padding-top: 26px;
+    display: flex;
+    gap: 16px;
+    color: #48556A;;
+font-family: "Barlow Semi Condensed";
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; 
 }
 .h3{
     color: #48556A;
@@ -124,6 +152,16 @@ grid-area:7/6/1/9;
 .foto4{
     padding-left: 32px;
     padding-top: 26px;
+    padding-left: 32px;
+    padding-top: 26px;
+    display: flex;
+    gap: 16px;
+    color: #48556A;
+font-family: "Barlow Semi Condensed";
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; 
 }
 .h-4{
     color: #48556A;
@@ -154,6 +192,16 @@ grid-area:7/6/1/9;
 .foto5{
     padding-left: 32px;
     padding-top: 26px;
+    padding-left: 32px;
+    padding-top: 26px;
+    display: flex;
+    gap: 16px;
+    color: #FFF;
+font-family: "Barlow Semi Condensed";
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; 
 }
 .h5{
     color: #ECF2F8;
